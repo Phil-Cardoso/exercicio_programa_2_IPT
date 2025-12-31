@@ -72,7 +72,7 @@ O objetivo do trabalho é **comparar empiricamente** o comportamento dos dois al
 3. Execute o programa:
 
    ```bash
-   python ep2_pcv.py
+   python main.py
    ```
 
 ---
